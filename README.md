@@ -1,2 +1,3 @@
 # Traffic-Signal-Phase-Estimation-using-MTA-bus-data
 This project focuses on calculating the traffic signal phases using real-time bus data from the MTA.
+It employs mathematical models and equations derived from existing literature to interpret the bus velocity changes during one intersection. The goal is to estimate signal timing at intersections, including the duration of red and green phases, by analyzing changes in bus speeds that suggest stopping and starting patterns. This helps in understanding traffic flow dynamics and can contribute to optimizing signal timings for improved traffic management. Additionally, this project sets a foundation for future research that aims to resolve traffic signal phases using inverse traffic volume counts.
